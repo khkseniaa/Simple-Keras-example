@@ -1,0 +1,9 @@
+version: "1.4"
+namespace:
+    key: default
+    name: Default
+flags:
+    - key: First-flag
+      name: First flag
+      type: VARIANT_FLAG_TYPE
+      enabled: false
