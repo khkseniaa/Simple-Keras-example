@@ -7,3 +7,7 @@ flags:
       name: First flag
       type: VARIANT_FLAG_TYPE
       enabled: false
+    - key: Second-flag
+      name: Second-flag
+      type: BOOLEAN_FLAG_TYPE
+      enabled: false
